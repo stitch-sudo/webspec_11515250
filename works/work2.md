@@ -1,6 +1,7 @@
 # 第2次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
+- 學號：11515250
+- 姓名：潘咨穎
+- 信箱：aa0987514599@gmail.com
 
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
