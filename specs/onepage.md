@@ -95,7 +95,7 @@ header#top
       ├─ #story　我們的堅持
       ├─ #coffee　本季選豆
       ├─ #brew　沖煮日常
-      └─ #visit　訂閱風味通信（外框 CTA）
+      └─ #visit　訂閱的風味通信（外框 CTA）
 ```
 
 **視覺與行為**
