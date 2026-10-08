@@ -89,7 +89,7 @@
 ```text
 header#top
 └─ nav[aria-label="主要導覽"]
-   ├─ 品牌的的連結（品牌圓形 B 標記、藍天咖啡、BLUE SKY COFFEE）
+   ├─ 品牌的連結（品牌圓形 B 標記、藍天咖啡、BLUE SKY COFFEE）
    ├─ 手機版選單按鈕
    └─ 導覽連結
       ├─ #story　我們的堅持
