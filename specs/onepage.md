@@ -89,13 +89,13 @@
 ```text
 header#top
 └─ nav[aria-label="主要導覽"]
-   ├─ 品牌的連結（品牌圓形 B 標記、藍天咖啡、BLUE SKY COFFEE）
+   ├─ 品牌連結（品牌圓形 B 標記、藍天咖啡、BLUE SKY COFFEE）
    ├─ 手機版選單按鈕
    └─ 導覽連結
       ├─ #story　我們的堅持
-      ├─ #coffee　本季選豆
+      ├─ #coffee　本季的選豆
       ├─ #brew　沖煮日常
-      └─ #visit　訂閱的風味通信（外框 CTA）
+      └─ #visit　訂閱風味通信（外框 CTA）
 ```
 
 **視覺與行為**
@@ -215,12 +215,12 @@ header#top
 
 | 欄位 | 內容 |
 |---|---|
-| 品牌欄 | 品牌標記、`藍天咖啡 / BLUE SKY COFFEE`，以及「為喜愛手沖咖啡的你，留下一段慢慢品味、微微放晴的時間。」 |
+| 品牌欄 | 品牌的標記、`藍天咖啡 / BLUE SKY COFFEE`，以及「為喜愛手沖咖啡的你，留下一段慢慢品味、微微放晴的時間。」 |
 | Explore | `我們的堅持`、`本季選豆`、`沖煮日常`，均為頁內錨點 |
 | Contact | `hello@bluesky.coffee`、`台北市大安區晴朗路 18 號`、`每日 10:00 — 19:00` |
 | 底列 | `© 2026 BLUE SKY COFFEE. ALL RIGHTS RESERVED.` 與 `BREW SLOW · LIVE BRIGHT` |
 
-Footer 背景為更深的 `#031c31`，主要的文字為低透明白，欄位標題使用天空藍、11px 與較大字距。
+Footer 背景為更深的 `#031c31`，主要文字為低透明白，欄位標題使用天空藍、11px 與較大字距。
 
 ## 6. 互動規格
 
