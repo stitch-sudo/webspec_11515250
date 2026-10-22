@@ -3,7 +3,6 @@
 - 姓名：潘咨穎
 - 信箱：aa0987514599@gmail.com
 
-
 ## 作業目標
 1. VSCode複製GitHub上2個儲存庫Repo
    1. 在電腦建立資料夾：D:\Web
