@@ -234,6 +234,7 @@ header#top
 | 品牌欄 | 品牌的標記、`藍天咖啡 / BLUE SKY COFFEE`，以及「為喜愛手沖咖啡的你，留下一段慢慢品味、微微放晴的時間。」 |
 | Explore | `我們的堅持`、`本季選豆`、`沖煮日常`，均為頁內錨點 |
 | Contact | `hello@bluesky.coffee`、`台北市大安區晴朗路 18 號`、`每日 10:00 — 19:00` |
+|地址動作|點擊 台中市西屯區僑光路 100 號 時，連結至 Google Maps：https://www.google.com/maps/search/?api=1&query=僑光科技大學|
 | 底列 | `© 2026 BLUE SKY COFFEE. ALL RIGHTS RESERVED.` 與 `BREW SLOW · LIVE BRIGHT` |
 
 Footer 背景為更深的 `#031c31`，主要文字為低透明白，欄位標題使用天空藍、11px 與較大字距。
